@@ -1,0 +1,11 @@
+Instructions: Go to https://codepen.io. Click Create button at top right. Create a New Pen for each of the three scripts below. When you have finished writing a script, click Save. Send me the URL for your CodePen in Slack DIRECTLY TO MY ACCOUNT. DON'T PUT THE URL IN THE GENERAL CHANNEL.
+
+Note: In order to view the console in CodePen, you will need to click the Console button on the bottom left.
+
+
+
+1. Create a variable named "number" and assign it an integer value. Then write a script that will write out in the console either "This number is larger than 10" or "This number is less than 10" when the script is run.
+
+2. Create an array of the colors in a rainbow (red, orange, yellow, green, blue, indigo, violet). Write a loop that writes all of those colors one by one to the console.
+
+2a. Using the array of colors, write a script that writes a single sentence to the console: "A rainbow is made up of 7 colors. Those colors are red, orange, yellow, green, blue, indigo, and violet. How pretty!" Extra points if the number 7 is dynamically determined so that if I add a color to the array, the sentence will read "A rainbow is made up of 8 colors..."
