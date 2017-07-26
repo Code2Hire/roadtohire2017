@@ -6,7 +6,7 @@ they reach the parameter, without letting the sum go over.
 Once you’ve reached to the sum, print to the screen 
 “it took _____ tries to total ______. Here are the steps:“, followed by a list of 
 the randomly generated numbers that you added together. If any of the numbers 
-caused the total to go over, print “Too Big” to the screen rather then printing that number.
+caused the total to go over, print “Too Big” to the screen, along with the number in parenthesis.
 
 Sample output:
 
@@ -14,12 +14,12 @@ It took 10 tries to total 20. Here are the steps:
 3
 4
 5
-Too Big
+Too Big (10)
 5
-Too Big
+Too Big (5)
 2
-Too Big
-Too Big
+Too Big (4)
+Too Big (9)
 1
 
 Check to make sure the parameter being passed in is a number and that it is less than 1,000.
