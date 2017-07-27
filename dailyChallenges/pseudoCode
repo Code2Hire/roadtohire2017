@@ -1,0 +1,4 @@
+1. Write code to create a tic tac toe game. You need to keep track of who's turn it is and the current state of the board. You also need to keep track of when someone makes a move and update the current state of the board. When a move is made, make sure to check to see if there is a winner.
+
+2. Write pseudo code for the following problem:
+Imagine someone is submitting an order. Write code to check if the customer information is valid, go through each item in the order and check some imaginary system to see if the item is in stock, check to see if the customer is a discount club member and can get 10% off their order total, and see what state the order is being placed in and apply state sales tax. Try to send the confirmation email. If there are any problems, stop the function and send and error message.
