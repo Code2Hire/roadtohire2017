@@ -1,0 +1,7 @@
+Write two functions that do the following:
+
+1. Given a month, the function should return the number of days in that month. If the input is 'all', the function should return a string that shows all months with the corresponding number of days in each.
+
+2. Given a month and a starting day of the week, the function should return a list of each day in the month with its corresponding day of the week. E.g. - given "June" and "Monday", the string should start out with June 1 is a Monday, June 2 is a Tuesday, June 3 ... Make sure you print out the correct number of days for that month. In other words, the function should never have a day of the week for June 31.
+
+As always, use good coding practices. 
