@@ -1,0 +1,7 @@
+Using the HTML in the codepen link below, fork, recreate and save the following patterns. You may not alter the HTML in any way and you may not pull in outside images or resources. These should be solved entirely in CSS.
+
+Unless otherwise noted, the divs are all 100px x 100px.
+
+http://codepen.io/gradmaximus/pen/KNNWgj
+
+This project is in honor of Angel.
